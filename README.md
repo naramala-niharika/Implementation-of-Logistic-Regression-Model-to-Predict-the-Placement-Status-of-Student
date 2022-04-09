@@ -73,8 +73,16 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-
+## Data head:
+![Output](https://github.com/naramala-niharika/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/l1.PNG?raw=true)
+## Accuracy:
+![Output](https://github.com/naramala-niharika/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/l2.PNG?raw=true)
+## Confusion Matrix:
+![Output](https://github.com/naramala-niharika/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/l3.PNG?raw=true)
+##Classification Report:
+![Output](https://github.com/naramala-niharika/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/l4.PNG?raw=true)
+##Predicted Values:
+![Output](https://github.com/naramala-niharika/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/l5.PNG?raw=true)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
